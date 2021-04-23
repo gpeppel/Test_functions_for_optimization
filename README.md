@@ -1,4 +1,7 @@
-cma_me_imp_n20_itrs4500
+Comparing the archive coverage of each algorithm, including the images for each run.
+Comparing the QD score of each algorithm, including the images for each run
+Explanation regarding which algorithm produced the “best” output and why.
+
 
 
 
