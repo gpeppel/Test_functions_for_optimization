@@ -1,8 +1,9 @@
-Comparing the archive coverage of each algorithm, including the images for each run.
-Comparing the QD score of each algorithm, including the images for each run
-Explanation regarding which algorithm produced the “best” output and why.
-
-
+<p>Comparing the archive coverage of each algorithm, including the images for each run.<p>
+<br />
+<p>Comparing the QD score of each algorithm, including the images for each run<p>
+ <br />
+<p>Explanation regarding which algorithm produced the “best” output and why.<p>
+<br />
 
 
 
