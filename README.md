@@ -1,4 +1,4 @@
-<p>Comparing the archive coverage of each algorithm, including the images for each run.<p>
+<p>A.Comparing the archive coverage of each algorithm, including the images for each run.<p>
 <br />
 <p>Comparing the QD score of each algorithm, including the images for each run<p>
  <br />
@@ -9,7 +9,7 @@
 
 
 
-
+<h1><strong>A.</strong></h1>
 <img src=cma_me_imp_n20_itrs4500/cma_me_imp_20_archive_coverage.png>
 
 <img src=cma_me_mixed_n20_itrs4500/cma_me_mixed_20_archive_coverage.png>
